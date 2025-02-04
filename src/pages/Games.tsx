@@ -6,7 +6,7 @@ const GAMES = [
     year: '1985',
     console: 'NES',
     description: 'O jogo que definiu o gênero de plataforma.',
-    image: 'https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SonicTheHedgehog_image1600w.jpg',
+    image: 'https://images.nintendolife.com/games/nes/super_mario_bros/cover_large.jpg',
   },
   {
     name: 'Sonic the Hedgehog',
